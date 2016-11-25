@@ -1,7 +1,6 @@
 var express = require('express'),
     employees = require('./routes/employees'),
     app = express();
-
 app.use(express.static('www'));
 // Created directory "newdir1" into /var/www/html/
 // CORS (Cross-Origin Resource Sharing) headers to support Cross-site HTTP requests
