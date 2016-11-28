@@ -2,7 +2,8 @@ var express = require('express'),
     employees = require('./routes/employees'),
     app = express();
 app.use(express.static('www'));
-// Created Directory "directory-react-nodejs-Harshal" into /var/www/html/  dkfndfndlkfndklfnf
+// Created Directory "directory-react-nodejs-Harshal" into /var/www/html/
+//  dkfndfndlkfndklfnfd d,m d,m v,m v 
 
 // CORS (Cross-Origin Resource Sharing) headers to support Cross-site HTTP requests
 app.all('*', function(req, res, next) {
