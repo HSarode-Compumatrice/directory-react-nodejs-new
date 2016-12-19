@@ -2,7 +2,7 @@
 
 # Employee Directory with React and Node123
 
-Employee directory is a sample application that allows you to look up employees by name, view the detailsss of an employee,
+Employee directory is a sample application that allows you to look up employees by nameeee, view the detailsss of an employee,
 call, text, or email an employee, and navigate up and down the org chart.
 
 This version of Employee Directory is built with [React](http://facebook.github.io/react/) and [Node.js]().
