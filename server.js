@@ -4,7 +4,7 @@ var express = require('express'),
 app.use(express.static('www'));
 // Created Directory "directory-react-nodejs-Harshal" into /var/www/html/
 // CORS (Cross-Origin Resource Sharing) headers to support Cross-site HTTP requests
-//Commited on 19Dec...
+//Commited on 19DEC
 app.all('*', function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
